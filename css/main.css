@@ -12,10 +12,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    list-style-type: disc;
 }
 a {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-decoration: none;
-    color: #696969;
+    color: #696976;
 }
 a:hover {
     text-decoration: underline;
