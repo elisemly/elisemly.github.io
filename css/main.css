@@ -28,7 +28,7 @@ a:visited {
 }
 a:hover {
     color: #696C79;
-    border-bottom: 1px #FFBF3F;
+    border-bottom: 1px solid #FFBF3F;
 }
 h1 {
     font-size: 3em;
