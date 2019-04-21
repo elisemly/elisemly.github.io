@@ -24,9 +24,15 @@ a {
 }
 a:link {
   color: black;
+  font-family: 'Helvetica';
+  font-size: 1.5em;
+  line-height: 1.4em;
 }
 a:visited {
   color: black;
+  font-family: 'Helvetica';
+  font-size: 1.5em;
+  line-height: 1.4em;
 }
 a:hover {
     color: #696C79;
@@ -57,7 +63,7 @@ ul.posts li {
 }
 
 .boxed {
-  width: 350px;
+  width: 300px;
   background-color: #307FE2;
   padding: 10px;
   border: 1px solid #307FE2;
