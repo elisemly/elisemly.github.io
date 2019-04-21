@@ -53,3 +53,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.boxed {
+  background-color: #307FE2;
+  padding: 10px ;
+  border: 1px #307FE2;
+}
