@@ -20,9 +20,11 @@ a {
 }
 a:link {
   color: #696C79;
+  border-bottom: 1px solid Gainsboro;
 }
 a:visited {
   color: black;
+  border-bottom: 1px solid Gainsboro;
 }
 a:hover {
     color: #696C79;
