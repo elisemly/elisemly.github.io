@@ -12,7 +12,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: black;
+    color:  #696C79;
     font-family: 'Helvetica';
     font-size: 1.5em;
     line-height: 1.4em;
@@ -22,20 +22,20 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: black;
+  color: #696C79;
   font-family: 'Helvetica';
   font-size: 1.5em;
   line-height: 1.4em;
 }
 a:visited {
-  color: black;
+  color: #696C79;
   font-family: 'Helvetica';
   font-size: 1.5em;
   line-height: 1.4em;
 }
 a:hover {
     color: #696C79;
-    border-bottom: 1px solid #FFBF3F;
+    border-bottom: 1px solid #307FE2;
 }
 h1 {
     font-size: 3em;
@@ -63,7 +63,7 @@ ul.posts li {
 
 .boxed {
   width: 570px;
-  height: 900px;
+  height: 700px;
   background-color: #FFBF3F;
   padding: 10px;
   border: 1px solid #DDDDDA;
