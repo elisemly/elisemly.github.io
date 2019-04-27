@@ -68,8 +68,7 @@ ul.posts li {
 
 .boxed {
   width: 570px;
-  height: 700px;
   background-color: #FFBF3F;
   padding: 10px;
-  border: 1px solid #DDDDDA;
+  border: 5px solid #DDDDDA;
 }
