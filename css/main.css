@@ -72,3 +72,12 @@ ul.posts li {
   padding: 10px;
   border: 5px solid #DDDDDA;
 }
+
+.box {
+    float: left;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid #696C79;
+}
