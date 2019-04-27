@@ -57,6 +57,11 @@ footer {
     font-size: .8em;
 }
 
+li {
+  list-style: none;
+  font-family:'Helvetica';
+}
+
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
