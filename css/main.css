@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 60%;
-    background-color: #DDDDDA;
+    background-color: #F5F7FF;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -74,7 +74,7 @@ ul.posts li {
 
 .boxed {
   width: 570px;
-  background-color: #FFBF3F;
+  background-color: #DFE1EC;
   padding: 10px;
   border: 5px solid #DDDDDA;
 }
