@@ -13,29 +13,29 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color:  #696C79;
-    font-family: 'Helvetica';
+    color:  #02040F;
+    font-family: 'Times New Roman';
     font-size: 1.5em;
     line-height: 1.4em;
 }
 a {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family:'Times New Roman', 'Arial', 'Sans-Serif';
   text-decoration: none;
 }
 a:link {
-  color: #696C79;
-  font-family: 'Helvetica';
+  color: #02040F;
+  font-family: 'Times New Roman';
   font-size: 1.5em;
   line-height: 1.4em;
 }
 a:visited {
   color: #696C79;
-  font-family: 'Helvetica';
+  font-family: 'Times New Roman';
   font-size: 1.5em;
   line-height: 1.4em;
 }
 a:hover {
-    color: #696C79;
+    color: #02040F;
     border-bottom: 1px solid #307FE2;
 }
 h1 {
@@ -75,7 +75,7 @@ ul.posts li {
 
 .boxed {
   width: 720px;
-  background-color: #FFFFFF;
+  background-color: #FFF7FF;
   padding: 10px;
   display: inline-block;
 }
