@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 60%;
     background-color: #F5F7FF;
+    text-align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -73,10 +74,10 @@ ul.posts li {
 }
 
 .boxed {
-  width: 570px;
-  background-color: #DFE1EC;
+  width: 600px;
+  background-color: #FFFFFF;
   padding: 10px;
-  border: 5px solid #DDDDDA;
+  display: inline-block;
 }
 
 .box {
